@@ -1,3 +1,8 @@
-Pisat - dulce verde si puticios
-cacat - negru mirositor si lipicios
-basina - gazoasa si imputita
+E100 - Denumire: Curcumină |  Proprietate: Colorant galben natural | Unde se găsește: Muștar, brânzeturi, supe, produse de patiserie
+E101 - Denumire: Riboflavină (Vitamina B2)  | Proprietate: Colorant galben | Unde se găsește: Produse lactate, cereale, suplimente
+E102 - Denumire: Tartrazină | Proprietate: Colorant galben sintetic | Unde se găsește: Băuturi carbogazoase, bomboane, produse de patiserie
+E103 - Denumire: Chrysoină resorcinol |  Proprietate: Colorant galben sintetic  | Unde se găsește: Interzis în UE
+E104 - Denumire: Galben de chinolină | Proprietate: Colorant galben sintetic | Unde se găsește: Băuturi, jeleuri, bomboane
+E105 - Denumire: Galben solid (Fast Yellow AB) |  Proprietate: Colorant galben sintetic | Unde se găsește: Interzis în UE
+E106 - Denumire: Riboflavină-5-fosfat sodic |  Proprietate: Derivat de riboflavină | Unde se găsește: Neaprobat în UE
+E107 - Denumire: Galben 2G |  Proprietate: Colorant galben sintetic | Unde se găsește: Interzis în UE
