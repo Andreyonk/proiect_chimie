@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
     })
     .catch(error => {
       console.error('Esti prea gras. Lasate de viata.', error);
-      resultsContainer.innerHTML = `<p class="no-results">Esti prea gras. Lasate de viata..</p>`;
+      resultsContainer.innerHTML = `<p class="no-results">Este o mica eroare...</p>`;
     });
   
   // Search function
