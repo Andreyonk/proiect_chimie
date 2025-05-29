@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Display search results
   function displayResults(results, query) {
     if (results.length === 0) {
-      resultsContainer.innerHTML = `<p class="no-results">DOMNUL DIACONU NU A FOST VRENIC ASA CA "${query}" NU SE AFLA PE LISTA. Va rugam incercati altceva :3 </p>`;
+      resultsContainer.innerHTML = `<p class="no-results">DOMNUL DIACONU NU A FOST VREDNIC ASA CA "${query}" NU SE AFLA PE LISTA. Va rugam incercati altceva :3 </p>`;
       return;
     }
     
