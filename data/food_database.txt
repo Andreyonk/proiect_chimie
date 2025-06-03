@@ -7,69 +7,69 @@ E105 - Denumire: Galben solid (Fast Yellow AB) |  Proprietate: Colorant galben s
 E106 - Denumire: Riboflavină-5-fosfat sodic |  Proprietate: Derivat de riboflavină | Unde se găsește: Neaprobat în UE
 E107 - Denumire: Galben 2G |  Proprietate: Colorant galben sintetic | Unde se găsește: Interzis în UE
 E109 - Denumire: Portocaliu GGN Proprietate: Colorant sintetic Unde se găsește: Interzis/neutilizat în prezent
-E110 – Denumire: Galben portocaliu S Proprietate: Colorant portocaliu sintetic Unde se găsește: Dulciuri, supe instant, snacks-uri
-E111 – Denumire: Oranj G Proprietate: Colorant sintetic Unde se găsește: Interzis în prezent
-E120 – Denumire: Carmin (acid carminic) Proprietate: Colorant roșu natural Unde se găsește: Iaurturi, sucuri, bomboane
-E121 – Denumire: Oranj portocaliu I Proprietate: Colorant sintetic Unde se găsește: Interzis/neutilizat
-E122 – Denumire: Azorubină Proprietate: Colorant roșu sintetic Unde se găsește: Dulciuri, prăjituri, deserturi
-E123 – Denumire: Amarant Proprietate: Colorant roșu sintetic Unde se găsește: Vinuri aromate, dulciuri, jeleuri
-E124 – Denumire: Roșu ponceau 4R Proprietate: Colorant roșu sintetic Unde se găsește: Produse de cofetărie, carne procesată
-E125 – Denumire: Ponceau SX Proprietate: Colorant roșu sintetic Unde se găsește: Interzis/neutilizat
-E126 – Denumire: Roșu Azo RC Proprietate: Colorant roșu sintetic Unde se găsește: Interzis/neutilizat
-E127 – Denumire: Eritrozina Proprietate: Colorant roșu sintetic Unde se găsește: Dulciuri, bomboane, cireșe confiate
-E128 – Denumire: Roșu 2G Proprietate: Colorant roșu sintetic Unde se găsește: Interzis în UE
-E129 – Denumire: Roșu allura AC Proprietate: Colorant roșu sintetic Unde se găsește: Băuturi răcoritoare, dulciuri, cereale
-E130 – Denumire: Albastru RX Proprietate: Colorant sintetic Unde se găsește: Neutilizat/rezervat
-E131 – Denumire: Albastru patent V Proprietate: Colorant albastru sintetic Unde se găsește: Produse de cofetărie, glazuri, jeleuri
-E132 – Denumire: Indigotină Proprietate: Colorant albastru sintetic Unde se găsește: Bomboane, produse de panificație, înghețată
-E133 – Denumire: Albastru briliant FCF Proprietate: Colorant albastru sintetic Unde se găsește: Băuturi, deserturi, produse de cofetărie
-E134 – Denumire: Albastru acid 9 Proprietate: Colorant albastru sintetic Unde se găsește: Neautorizat/neutilizat în prezent
-E135 – Denumire: Verde acid 1 Proprietate: Colorant verde sintetic Unde se găsește: Interzis/neutilizat în prezent
-E136 – Denumire: Verde S Proprietate: Colorant verde sintetic Unde se găsește: Băuturi, jeleuri, produse de cofetărie
-E137 – Denumire: Tartrazină indigo Proprietate: Colorant sintetic Unde se găsește: Interzis/neutilizat
-E138 – Denumire: Lactat de clorofilină de cupru Proprietate: Colorant verde Unde se găsește: Băuturi, înghețată, produse de patiserie
-E139 – Denumire: Riboflavină-5-fosfat Proprietate: Colorant galben Unde se găsește: Suplimente, băuturi, alimente fortificate
-E140 – Denumire: Clorofilă Proprietate: Colorant verde natural Unde se găsește: Produse lactate, băuturi, dulciuri
-E141 – Denumire: Complexe de clorofilă și cupru Proprietate: Colorant verde Unde se găsește: Produse de panificație, băuturi
-E142 – Denumire: Verde S Proprietate: Colorant verde sintetic Unde se găsește: Băuturi, dulciuri, deserturi
-E143 – Denumire: Verde rapid BS Proprietate: Colorant verde sintetic Unde se găsește: Interzis/neutilizat în prezent
-E144 – Denumire: Colorant neatribuit Proprietate: – Unde se găsește: Neutilizat/rezervat
-E145 – Denumire: Colorant neatribuit Proprietate: – Unde se găsește: Neutilizat/rezervat
-E150a – Denumire: Caramel simplu Proprietate: Colorant maro Unde se găsește: Băuturi carbogazoase, sosuri, produse de panificație
-E150b – Denumire: Caramel cu sulfit alcalin Proprietate: Colorant maro Unde se găsește: Băuturi, produse de panificație
-E150c – Denumire: Caramel amoniacal Proprietate: Colorant maro Unde se găsește: Băuturi, produse de panificație
-E150d – Denumire: Caramel amoniacal-sulfit Proprietate: Colorant maro Unde se găsește: Băuturi, produse de panificație
-E151 – Denumire: Negru briliant BN Proprietate: Colorant negru sintetic Unde se găsește: Băuturi, dulciuri, produse de cofetărie
-E152 – Denumire: Negru PN Proprietate: Colorant negru sintetic Unde se găsește: Produse de cofetărie, băuturi
-E153 – Denumire: Cărbune vegetal Proprietate: Colorant negru natural Unde se găsește: Produse de cofetărie, înghețată
-E154 – Denumire: Maro FK Proprietate: Colorant maro sintetic Unde se găsește: Pește afumat (kippers), sosuri
-E155 – Denumire: Maro HT Proprietate: Colorant maro sintetic Unde se găsește: Băuturi, produse de panificație
-E160a – Denumire: Caroten (β-caroten) Proprietate: Colorant portocaliu natural Unde se găsește: Unt, margarină, sucuri, produse de panificație
-E160b – Denumire: Annatto Proprietate: Colorant portocaliu natural Unde se găsește: Brânzeturi, margarină, produse de panificație
-E160c – Denumire: Extract de paprika Proprietate: Colorant roșu-portocaliu Unde se găsește: Produse de carne, supe, sosuri
-E160d – Denumire: Licopen Proprietate: Colorant roșu natural Unde se găsește: Sucuri, sosuri, produse de panificație
-E160e – Denumire: β-Apo-8'-carotenal Proprietate: Colorant portocaliu Unde se găsește: Băuturi, produse de panificație
-E160f – Denumire: β-Apo-8'-carotenic acid ethyl ester Proprietate: Colorant portocaliu Unde se găsește: Băuturi, produse de panificație
-E161a – Denumire: Astaxantină Proprietate: Colorant roșu natural Unde se găsește: Suplimente, produse din pește, hrana pentru animale
-E161b – Denumire: Luteină Proprietate: Colorant galben natural Unde se găsește: Margarine, produse lactate, suplimente
-E161c – Denumire: Zeaxantină Proprietate: Colorant galben natural Unde se găsește: Suplimente, unele produse din ouă
-E161d – Denumire: Criptoxantină Proprietate: Colorant galben-portocaliu natural Unde se găsește: Neutilizat/rar utilizat
-E161e – Denumire: Violaxantină Proprietate: Colorant galben natural Unde se găsește: Neutilizat
-E161f – Denumire: Rodoxantină Proprietate: Colorant roșu-portocaliu Unde se găsește: Neutilizat
-E161g – Denumire: Cantaxantină Proprietate: Colorant roșu-portocaliu Unde se găsește: Suplimente, hrana pentru pești, unele băuturi
-E161h – Denumire: β-Cryptoxantină 3 Proprietate: Colorant natural Unde se găsește: Neutilizat
-E161i – Denumire: β-Cryptoxantină 4 Proprietate: Colorant natural Unde se găsește: Neutilizat
-E161j – Denumire: β-Cryptoxantină 5 Proprietate: Colorant natural Unde se găsește: Neutilizat
-E161k – Denumire: β-Cryptoxantină 6 Proprietate: Colorant natural Unde se găsește: Neutilizat
-E181 – Denumire: Tălcul Proprietate: Agent de acoperire Unde se găsește: Tablete, produse farmaceutice
-E182 – Denumire: Flori de castan Proprietate: Colorant Unde se găsește: Neautorizat în UE
-E200 – Denumire: Acid sorbic Proprietate: Conservant Unde se găsește: Brânzeturi, produse de panificație, băuturi
-E162 – Denumire: Betanină Proprietate: Colorant roșu natural Unde se găsește: Sucuri, iaurturi, produse din sfeclă
-E163 – Denumire: Antocianine Proprietate: Colorant roșu-violaceu natural Unde se găsește: Sucuri, vinuri, dulciuri
-E164 – Denumire: Saflor Proprietate: Colorant galben natural Unde se găsește: Folosit ocazional în produse naturale
-E165 – Denumire: Extract de roibă Proprietate: Colorant roșu natural Unde se găsește: Neautorizat în UE
-E166 – Denumire: Sandalwood Proprietate: Colorant roșu natural Unde se găsește: Interzis/neutilizat în prezent
-E170 – Denumire: Carbonat de calciu Proprietate: Regulator de aciditate, colorant alb Unde se găsește: Gume de mestecat, suplimente, produse de patiserie
+E110 - Denumire: Galben portocaliu S Proprietate: Colorant portocaliu sintetic Unde se găsește: Dulciuri, supe instant, snacks-uri
+E111 - Denumire: Oranj G Proprietate: Colorant sintetic Unde se găsește: Interzis în prezent
+E120 - Denumire: Carmin (acid carminic) Proprietate: Colorant roșu natural Unde se găsește: Iaurturi, sucuri, bomboane
+E121 - Denumire: Oranj portocaliu I Proprietate: Colorant sintetic Unde se găsește: Interzis/neutilizat
+E122 - Denumire: Azorubină Proprietate: Colorant roșu sintetic Unde se găsește: Dulciuri, prăjituri, deserturi
+E123 - Denumire: Amarant Proprietate: Colorant roșu sintetic Unde se găsește: Vinuri aromate, dulciuri, jeleuri
+E124 - Denumire: Roșu ponceau 4R Proprietate: Colorant roșu sintetic Unde se găsește: Produse de cofetărie, carne procesată
+E125 - Denumire: Ponceau SX Proprietate: Colorant roșu sintetic Unde se găsește: Interzis/neutilizat
+E126 - Denumire: Roșu Azo RC Proprietate: Colorant roșu sintetic Unde se găsește: Interzis/neutilizat
+E127 - Denumire: Eritrozina Proprietate: Colorant roșu sintetic Unde se găsește: Dulciuri, bomboane, cireșe confiate
+E128 - Denumire: Roșu 2G Proprietate: Colorant roșu sintetic Unde se găsește: Interzis în UE
+E129 - Denumire: Roșu allura AC Proprietate: Colorant roșu sintetic Unde se găsește: Băuturi răcoritoare, dulciuri, cereale
+E130 - Denumire: Albastru RX Proprietate: Colorant sintetic Unde se găsește: Neutilizat/rezervat
+E131 - Denumire: Albastru patent V Proprietate: Colorant albastru sintetic Unde se găsește: Produse de cofetărie, glazuri, jeleuri
+E132 - Denumire: Indigotină Proprietate: Colorant albastru sintetic Unde se găsește: Bomboane, produse de panificație, înghețată
+E133 - Denumire: Albastru briliant FCF Proprietate: Colorant albastru sintetic Unde se găsește: Băuturi, deserturi, produse de cofetărie
+E134 - Denumire: Albastru acid 9 Proprietate: Colorant albastru sintetic Unde se găsește: Neautorizat/neutilizat în prezent
+E135 - Denumire: Verde acid 1 Proprietate: Colorant verde sintetic Unde se găsește: Interzis/neutilizat în prezent
+E136 - Denumire: Verde S Proprietate: Colorant verde sintetic Unde se găsește: Băuturi, jeleuri, produse de cofetărie
+E137 - Denumire: Tartrazină indigo Proprietate: Colorant sintetic Unde se găsește: Interzis/neutilizat
+E138 - Denumire: Lactat de clorofilină de cupru Proprietate: Colorant verde Unde se găsește: Băuturi, înghețată, produse de patiserie
+E139 - Denumire: Riboflavină-5-fosfat Proprietate: Colorant galben Unde se găsește: Suplimente, băuturi, alimente fortificate
+E140 - Denumire: Clorofilă Proprietate: Colorant verde natural Unde se găsește: Produse lactate, băuturi, dulciuri
+E141 - Denumire: Complexe de clorofilă și cupru Proprietate: Colorant verde Unde se găsește: Produse de panificație, băuturi
+E142 - Denumire: Verde S Proprietate: Colorant verde sintetic Unde se găsește: Băuturi, dulciuri, deserturi
+E143 - Denumire: Verde rapid BS Proprietate: Colorant verde sintetic Unde se găsește: Interzis/neutilizat în prezent
+E144 - Denumire: Colorant neatribuit Proprietate: - Unde se găsește: Neutilizat/rezervat
+E145 - Denumire: Colorant neatribuit Proprietate: - Unde se găsește: Neutilizat/rezervat
+E150a - Denumire: Caramel simplu Proprietate: Colorant maro Unde se găsește: Băuturi carbogazoase, sosuri, produse de panificație
+E150b - Denumire: Caramel cu sulfit alcalin Proprietate: Colorant maro Unde se găsește: Băuturi, produse de panificație
+E150c - Denumire: Caramel amoniacal Proprietate: Colorant maro Unde se găsește: Băuturi, produse de panificație
+E150d - Denumire: Caramel amoniacal-sulfit Proprietate: Colorant maro Unde se găsește: Băuturi, produse de panificație
+E151 - Denumire: Negru briliant BN Proprietate: Colorant negru sintetic Unde se găsește: Băuturi, dulciuri, produse de cofetărie
+E152 - Denumire: Negru PN Proprietate: Colorant negru sintetic Unde se găsește: Produse de cofetărie, băuturi
+E153 - Denumire: Cărbune vegetal Proprietate: Colorant negru natural Unde se găsește: Produse de cofetărie, înghețată
+E154 - Denumire: Maro FK Proprietate: Colorant maro sintetic Unde se găsește: Pește afumat (kippers), sosuri
+E155 - Denumire: Maro HT Proprietate: Colorant maro sintetic Unde se găsește: Băuturi, produse de panificație
+E160a - Denumire: Caroten (β-caroten) Proprietate: Colorant portocaliu natural Unde se găsește: Unt, margarină, sucuri, produse de panificație
+E160b - Denumire: Annatto Proprietate: Colorant portocaliu natural Unde se găsește: Brânzeturi, margarină, produse de panificație
+E160c - Denumire: Extract de paprika Proprietate: Colorant roșu-portocaliu Unde se găsește: Produse de carne, supe, sosuri
+E160d - Denumire: Licopen Proprietate: Colorant roșu natural Unde se găsește: Sucuri, sosuri, produse de panificație
+E160e - Denumire: β-Apo-8'-carotenal Proprietate: Colorant portocaliu Unde se găsește: Băuturi, produse de panificație
+E160f - Denumire: β-Apo-8'-carotenic acid ethyl ester Proprietate: Colorant portocaliu Unde se găsește: Băuturi, produse de panificație
+E161a - Denumire: Astaxantină Proprietate: Colorant roșu natural Unde se găsește: Suplimente, produse din pește, hrana pentru animale
+E161b - Denumire: Luteină Proprietate: Colorant galben natural Unde se găsește: Margarine, produse lactate, suplimente
+E161c - Denumire: Zeaxantină Proprietate: Colorant galben natural Unde se găsește: Suplimente, unele produse din ouă
+E161d - Denumire: Criptoxantină Proprietate: Colorant galben-portocaliu natural Unde se găsește: Neutilizat/rar utilizat
+E161e - Denumire: Violaxantină Proprietate: Colorant galben natural Unde se găsește: Neutilizat
+E161f - Denumire: Rodoxantină Proprietate: Colorant roșu-portocaliu Unde se găsește: Neutilizat
+E161g - Denumire: Cantaxantină Proprietate: Colorant roșu-portocaliu Unde se găsește: Suplimente, hrana pentru pești, unele băuturi
+E161h - Denumire: β-Cryptoxantină 3 Proprietate: Colorant natural Unde se găsește: Neutilizat
+E161i - Denumire: β-Cryptoxantină 4 Proprietate: Colorant natural Unde se găsește: Neutilizat
+E161j - Denumire: β-Cryptoxantină 5 Proprietate: Colorant natural Unde se găsește: Neutilizat
+E161k - Denumire: β-Cryptoxantină 6 Proprietate: Colorant natural Unde se găsește: Neutilizat
+E181 - Denumire: Tălcul Proprietate: Agent de acoperire Unde se găsește: Tablete, produse farmaceutice
+E182 - Denumire: Flori de castan Proprietate: Colorant Unde se găsește: Neautorizat în UE
+E200 - Denumire: Acid sorbic Proprietate: Conservant Unde se găsește: Brânzeturi, produse de panificație, băuturi
+E162 - Denumire: Betanină Proprietate: Colorant roșu natural Unde se găsește: Sucuri, iaurturi, produse din sfeclă
+E163 - Denumire: Antocianine Proprietate: Colorant roșu-violaceu natural Unde se găsește: Sucuri, vinuri, dulciuri
+E164 - Denumire: Saflor Proprietate: Colorant galben natural Unde se găsește: Folosit ocazional în produse naturale
+E165 - Denumire: Extract de roibă Proprietate: Colorant roșu natural Unde se găsește: Neautorizat în UE
+E166 - Denumire: Sandalwood Proprietate: Colorant roșu natural Unde se găsește: Interzis/neutilizat în prezent
+E170 - Denumire: Carbonat de calciu Proprietate: Regulator de aciditate, colorant alb Unde se găsește: Gume de mestecat, suplimente, produse de patiserie
 E171 - Denumire: Dioxid de titan Proprietate: Colorant alb Unde se găsește: Tablete, gume, produse zaharoase (interzis în UE din 2022)
 E172 - Denumire: Oxizi de fier Proprietate: Colorant galben, roșu sau maro Unde se găsește: Tablete, suplimente, glazuri
 E173 - Denumire: Aluminiu Proprietate: Colorant metalic Unde se găsește: Decorațiuni de cofetărie (restricționat)
