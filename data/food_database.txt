@@ -70,10 +70,9 @@ E164 – Denumire: Saflor Proprietate: Colorant galben natural Unde se găse
 E165 – Denumire: Extract de roibă Proprietate: Colorant roșu natural Unde se găsește: Neautorizat în UE
 E166 – Denumire: Sandalwood Proprietate: Colorant roșu natural Unde se găsește: Interzis/neutilizat în prezent
 E170 – Denumire: Carbonat de calciu Proprietate: Regulator de aciditate, colorant alb Unde se găsește: Gume de mestecat, suplimente, produse de patiserie
-E171 – Denumire: Dioxid de titan Proprietate: Colorant alb Unde se găsește: Tablete, gume, produse zaharoase (interzis în UE din 2022)
-E172 – Denumire: Oxizi de fier Proprietate: Colorant galben, roșu sau maro Unde se găsește: Tablete, suplimente, glazuri
-E173 – Denumire: Aluminiu Proprietate: Colorant metalic Unde se găsește: Decorațiuni de cofetărie (restricționat)
-E174 – Denumire: Argint Proprietate: Colorant metalic Unde se găsește: Foiță alimentară, decorațiuni de lux
-E175 – Denumire: Aur Proprietate: Colorant metalic Unde se găsește: Decorațiuni de lux pentru prăjituri și băuturi
-E180 – Denumire: Litolrubin BK Proprietate: Colorant roșu sintetic Unde se găsește: Coji de brânzeturi, produse de panificație
-cacat - pisu
+E171 - Denumire: Dioxid de titan Proprietate: Colorant alb Unde se găsește: Tablete, gume, produse zaharoase (interzis în UE din 2022)
+E172 - Denumire: Oxizi de fier Proprietate: Colorant galben, roșu sau maro Unde se găsește: Tablete, suplimente, glazuri
+E173 - Denumire: Aluminiu Proprietate: Colorant metalic Unde se găsește: Decorațiuni de cofetărie (restricționat)
+E174 - Denumire: Argint Proprietate: Colorant metalic Unde se găsește: Foiță alimentară, decorațiuni de lux
+E175 - Denumire: Aur Proprietate: Colorant metalic Unde se găsește: Decorațiuni de lux pentru prăjituri și băuturi
+E180 - Denumire: Litolrubin BK Proprietate: Colorant roșu sintetic Unde se găsește: Coji de brânzeturi, produse de panificație
