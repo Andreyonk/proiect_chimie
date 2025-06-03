@@ -6,7 +6,7 @@ E104 - Denumire: Galben de chinolină | Proprietate: Colorant galben sintetic | 
 E105 - Denumire: Galben solid (Fast Yellow AB) |  Proprietate: Colorant galben sintetic | Unde se găsește: Interzis în UE
 E106 - Denumire: Riboflavină-5-fosfat sodic |  Proprietate: Derivat de riboflavină | Unde se găsește: Neaprobat în UE
 E107 - Denumire: Galben 2G |  Proprietate: Colorant galben sintetic | Unde se găsește: Interzis în UE
-E109 – Denumire: Portocaliu GGN Proprietate: Colorant sintetic Unde se găsește: Interzis/neutilizat în prezent
+E109 - Denumire: Portocaliu GGN Proprietate: Colorant sintetic Unde se găsește: Interzis/neutilizat în prezent
 E110 – Denumire: Galben portocaliu S Proprietate: Colorant portocaliu sintetic Unde se găsește: Dulciuri, supe instant, snacks-uri
 E111 – Denumire: Oranj G Proprietate: Colorant sintetic Unde se găsește: Interzis în prezent
 E120 – Denumire: Carmin (acid carminic) Proprietate: Colorant roșu natural Unde se găsește: Iaurturi, sucuri, bomboane
