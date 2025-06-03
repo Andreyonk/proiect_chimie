@@ -76,3 +76,4 @@ E173 – Denumire: Aluminiu Proprietate: Colorant metalic Unde se găsește:
 E174 – Denumire: Argint Proprietate: Colorant metalic Unde se găsește: Foiță alimentară, decorațiuni de lux
 E175 – Denumire: Aur Proprietate: Colorant metalic Unde se găsește: Decorațiuni de lux pentru prăjituri și băuturi
 E180 – Denumire: Litolrubin BK Proprietate: Colorant roșu sintetic Unde se găsește: Coji de brânzeturi, produse de panificație
+cacat - pisu
